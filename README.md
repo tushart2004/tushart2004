@@ -95,22 +95,3 @@ A scalable e-commerce application with modular backend services.
 | 🏅 Data Structures in C++ | Coding Ninjas |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushart2004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushart2004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushart2004&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushart2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">⚡ <i>"Building intelligent systems, one API at a time."</i></p>
