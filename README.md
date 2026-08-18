@@ -52,13 +52,7 @@ A scalable e-commerce application with modular backend services.
 [![GitHub](https://img.shields.io/badge/View%20Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tushart2004)
 
 ---
-### 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/tushartikia?ext=heatmap" width="400"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
